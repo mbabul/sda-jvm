@@ -1,4 +1,4 @@
-package sda.mb.jvm;
+package io.mbab.sda.jvm;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -14,7 +14,7 @@ import org.springframework.stereotype.Component;
  */
 
 @Component
-@ManagedResource(objectName = "sda.mb.jvm:name=JmxService")
+@ManagedResource(objectName = "io.mbab.sda.jvm:name=JmxService")
 public class JmxService {
     private final Logger log = LoggerFactory.getLogger(this.getClass());
 

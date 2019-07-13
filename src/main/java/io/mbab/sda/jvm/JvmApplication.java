@@ -1,4 +1,4 @@
-package sda.mb.jvm;
+package io.mbab.sda.jvm;
 
 import javafx.stage.WindowEvent;
 import org.slf4j.Logger;

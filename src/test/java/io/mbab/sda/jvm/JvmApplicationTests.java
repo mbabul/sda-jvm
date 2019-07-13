@@ -1,4 +1,4 @@
-package sda.mb.jvm;
+package io.mbab.sda.jvm;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
